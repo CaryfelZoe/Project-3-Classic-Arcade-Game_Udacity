@@ -1,4 +1,4 @@
-# Project 3: Arcade Game 08/21/2015
+# Project 3: Arcade Game
 
 1. Open index.html in your browser
 2. Review the Project of the Arcade Game.
